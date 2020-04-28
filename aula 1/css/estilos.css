@@ -1,0 +1,16 @@
+#saudacao{
+	color: red;
+}
+
+.titulo {
+	color: blue;
+}
+
+h2.subtitulo{
+	color:gray;
+}
+
+
+ul#lista li{
+	text-align: center;
+}
