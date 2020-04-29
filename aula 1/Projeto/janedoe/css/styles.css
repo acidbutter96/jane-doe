@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,700;1,400&display=swap');
+
+
+/* *{} é estilo global do CSS*/
+*{
+	box-sizing: border-box;
+}
+/* Quando queríamos fazer uma div de 50px*/
+
+body{
+	font-family: 'Raleway', sans-serif;
+	padding: 0;
+	margin: 0;
+	/*border: 0;*/
+}
+
+/* reset no body para não ter estilo nativo */
+
+header{
+	text-align: center;
+	width: 100%;
+	/* deixar sempre em cima*/
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: #FFF;
+}
+
+/* aplicar estilo à tag ul dentro de nav */
+/* remover a bolinha */
+nav ul{
+	list-style: none;
+	padding-left: 0;
+}
+
+/* lista é block (display block um abaixo do outro) dizer pro display que são blocos inline */
+nav ul li{
+	display: inline-block;
+	padding: 10px 20px;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: #555;
+}
