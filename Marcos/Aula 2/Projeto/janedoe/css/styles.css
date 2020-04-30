@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+
+/* *{} é estilo global do CSS*/
+*{
+	box-sizing: border-box;
+}
+/* Quando queríamos fazer uma div de 50px*/
+
+a{
+	text-transform: none;
+}
+
+body{
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	padding: 0;
+	margin: 0;
+	/*border: 0;*/
+}
+
+/* reset no body para não ter estilo nativo */
+
+header{
+	text-align: center;
+	width: 100%;
+	/* deixar sempre em cima*/
+	position: fixed;
+	top: 0;
+	left: 0;
+	background: #FFF;
+}
+
+/* aplicar estilo à tag ul dentro de nav */
+/* remover a bolinha */
+nav ul{
+	list-style: none;
+	padding-left: 0;
+}
+
+/* lista é block (display block um abaixo do outro) dizer pro display que são blocos inline */
+nav ul li{
+	display: inline-block;
+	padding: 10px 20px;
+}
+
+nav a{
+	font-weight: 400;
+	text-decoration: none;
+}
+
+nav a:link{
+	text-transform: none;
+}
+
+
+/*a:link{
+	font-weight: bold;	
+}*/
+nav a:visited{
+	text-decoration: none;
+	color: black;
+}
+nav a:hover{
+	color:darkred;
+}
+
+/*Main*/
+main {
+	display: block;
+	margin: 166px 200px;
+}
+
+main h2{
+	font-weight: 700;
+}
+
+
+/* Estilos da página */
+
+
+.central{
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+
+.link-ativo{
+	font-weight:700;
+	color:darkred;
+}
+
+.central-imagem{
+	display: block;
+	margin: auto;
+	text-align: center;
+	width: 100%;
+}
+
+.central-imagem-about{
+	display: block;
+	margin: auto;
+	text-align: center;
+	width: 50%;
+}
+
+.bolder{
+	font-weight: 700;
+}
+
+.textao{
+	margin:60px 79px;
+	font-size: 18px;
+}
+
+.img-esquerda{
+	width: 500px;
+	float: left;
+	/*margin: 51px;*/
+}
+
+.Musica{
+	margin:60px 79px;
+	font-size: 18px;
+}
+
+.musicas{
+	color:#f9a93a;
+	font-weight: 700;
+}
+
+.criticas-about{
+	text-align: center;
+}
+
+.contato{
+	margin:51px 79px;
+	font-size: 18px;
+	border-bottom: 1px solid #8a7c7c;
+}
+/* IDS*/
+
+#div-img{
+	height: 1000px;
+	border: 10px solid black;
+	background-image: url('/img/jane.jpg');
+}
+
+
+#main-index{
+	margin:auto 200px;
+}
