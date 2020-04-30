@@ -1,0 +1,407 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"cluster",
+				"cluster_visualizer"
+			],
+			[
+				"confu",
+				"confusão"
+			],
+			[
+				"previsores",
+				"previsoeres"
+			],
+			[
+				"X_trein",
+				"X_treinamento2"
+			],
+			[
+				"confus",
+				"confusion_matrix"
+			],
+			[
+				"Y_",
+				"Y_teste"
+			],
+			[
+				"novo",
+				"novo_credito"
+			],
+			[
+				"taxa",
+				"taxa_acerto"
+			],
+			[
+				"X",
+				"X_treinamento"
+			],
+			[
+				"oneho",
+				"onehotencoder"
+			],
+			[
+				"One",
+				"OneHotEncoder"
+			],
+			[
+				"label",
+				"labelencoder"
+			],
+			[
+				"font",
+				"font_title"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"hit",
+				"hit_and_miss"
+			],
+			[
+				"lamb",
+				"lambdaa"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2684,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css.html",
+			"settings":
+			{
+				"buffer_size": 1434,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "#saudacao{\n\tcolor: red;\n}\n\n.titulo {\n\tcolor: blue;\n}\n\nh2.subtitulo{\n\tcolor:gray;\n}\nul#lista li{\n\ttext-align: center;\n}\n\n/*\nseletor {\n\tproriedade: valor;\n\t}\n\t*/\n\n\n/* Existem muitas propriedades de CSS, as quais permitem \n\ntipografias: font-family;\n\t\t\t font-size: 23px;\n\t\t\t font-style: normal italic bold;\n\t\t\t font-weight: 200;\n\t\t\t text-align: justify center left right;\n\t\t\t text-decoration: underline, line-trough, overline, none;\n\t\t\t \n*/\n\np{\n\tfont-family: Arial;\n}",
+			"file": "css/estilos.css",
+			"file_size": 120,
+			"file_write_time": 132325904864306280,
+			"settings":
+			{
+				"buffer_size": 464,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/marcos/Documents/Git/repository/Digital-House-front-end/index.html",
+		"/home/marcos/Documents/Git/repository/Data-science-R-and-python/R and Python to machine Learning/Machine Learning/Python/Agrupamentos/kmeans.py",
+		"/home/marcos/Documents/Git/repository/Data-science-R-and-python/R and Python to machine Learning/Machine Learning/Python/Agrupamentos/fuzzy_c-means.py",
+		"/home/marcos/Documents/Git/repository/Data-science-R-and-python/R and Python to machine Learning/Machine Learning/Python/Agrupamentos/k-medoids.py",
+		"/home/marcos/Documents/Git/repository/Data-science-R-and-python/R and Python to machine Learning/Machine Learning/Python/Classificação/arvore_decisao.py",
+		"/home/marcos/Documents/Git/repository/Data-science-R-and-python/R and Python to machine Learning/Machine Learning/Python/Classificação/naive_bayes.py",
+		"/home/marcos/Documents/Git/repository/Data-science-R-and-python/R and Python to machine Learning/Machine Learning/Python/naive_bayes.py",
+		"/home/marcos/Documents/Git/repository/Data-science-R-and-python/R and Python to machine Learning/Machine Learning/Python/Classificação/ensamble_learning_(random_forest).py",
+		"/home/marcos/Documents/Git/repository/Data-science-R-and-python/R and Python to machine Learning/Machine Learning/Python/Classificação/selecao_atributos.py",
+		"/home/marcos/Documents/Git/repository/Data-science-R-and-python/R and Python to machine Learning/Machine Learning/Python/feature_scale.py",
+		"/home/marcos/Documents/USP/1-2020/lab-computacao-USP/EP4/EP4.py",
+		"/home/marcos/Documents/Git/repository/Data-science-R-and-python/R and Python to machine Learning/Machine Learning/Python/categorical encoding.py",
+		"/home/marcos/.cache/.fr-Xm09Ij/codificaЗ╞o de categorias.py",
+		"/home/marcos/.cache/.fr-KCpmyi/k-means.py",
+		"/home/marcos/Documents/Git/repository/Data-science-R-and-python/R and Python to machine Learning/Machine Learning/Python/ensemble.py",
+		"/home/marcos/Documents/Git/repository/Data-science-R-and-python/R and Python to machine Learning/Machine Learning/Python/instancias.py",
+		"/media/marcos/Marcos/Notebook dell/Ubuntu/Documents/Python for Data Science/mod5.py",
+		"/home/marcos/Documents/Git/repository/Data-science-R-and-python/R and Python to machine Learning/Machine Learning/ML.py",
+		"/home/marcos/Documents/USP/1-2020/Laboratório de Computação e Simulação/EP3/MCEP3-2.py",
+		"/home/marcos/Documents/USP/1-2020/Laboratório de Computação e Simulação/EP3/MCEP3.py",
+		"/media/marcos/Marcos/Notebook dell/Ubuntu/Documents/Python for Data Science/mod8.py",
+		"/media/marcos/Marcos/Notebook dell/Ubuntu/Documents/Python for Data Science/mod4.py",
+		"/media/marcos/Marcos/Notebook dell/Ubuntu/Documents/Python for Data Science/mod7.py",
+		"/media/marcos/Marcos/Notebook dell/Ubuntu/Documents/Python for Data Science/mod6.py",
+		"/media/marcos/Marcos/Notebook dell/Ubuntu/Documents/Python for Data Science/mod2.py",
+		"/media/marcos/Marcos/Notebook dell/Backup2/D/Documentos/Python Science data/mod2.py",
+		"/media/marcos/Marcos/Notebook dell/Ubuntu/Documents/Python for Data Science/mod4.1.py",
+		"/media/marcos/Marcos/Notebook dell/Backup2/D/Documentos/02-2018/Laboratório de Termodinâmica e Física Estatística/Projeto/programa/Final real/randomwalkgrupo4.py",
+		"/home/marcos/Documents/codewars/training.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Y_treinamento",
+			"X_treinamento",
+			"Resultado Líquido",
+			"Venda Bruta col",
+			"drop",
+			"colu",
+			"nome",
+			"nomear",
+			"coluna",
+			"info",
+			"index",
+			"kind",
+			"val",
+			"coluna",
+			"cp",
+			"=a",
+			"=b"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Y_treino",
+			"X_treino",
+			"Lucro",
+			"=A",
+			"=B"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1381,
+								1381
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 992.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/estilos.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								434,
+								434
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 326.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aula1.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Git/repository/Data-science-R-and-python/R and Python to machine Learning/Machine Learning/Python/Classificação/classificação.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
