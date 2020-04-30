@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Jane Doe</title>
+        <link href="css/styles.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <header>
+            <h1>JANE DOE</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="music.html">Music</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a class="active" href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        
+        <div class="contact">
+            
+            <h1>Contact</h1>
+            
+            <div id="Form">
+                <form action="validar.php" method="POST">
+                    
+                    <p>
+                        <label for="name">Name:</label><br>
+                        <input type="text" name="name" id="name">
+                    </p>
+                    
+                    <p>
+                        <label for="email">Email:</label><br>
+                        <input type="email" name="email" id="email">
+                    </p>
+                    
+                    <p>
+                        <label for="mensagem">Message:</label><br>
+                        <textarea name="mensagem"></textarea>
+                    </p>
+
+                    <p>
+                        How did you found Jane's music?<br>
+                        <input type="radio" name="media" value="instagram">
+                        <label for="instagram">Instagram</label><br>
+                        <input type="radio" name="media" value="facebook">
+                        <label for="facebook">Facebook</label><br>
+                        <input type="radio" name="media" value="youtube">
+                        <label for="youtube">Youtube</label><br>
+                    </p>
+
+                    <p>
+                        <input type="checkbox" id="newsletter" name="newsletter" value="sim">
+                        <label for="newsletter">Do you want to subscribe to our newsletter?</label>
+                    </p>
+
+                    <p>
+                        <button type="submit">Send</button>
+                    </p>
+
+                </form>
+
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.0481131867177!2d-46.677530585336505!3d-23.60260736900117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce50ab7feb4519%3A0x739f0ddb0439cf94!2sDigital%20House%20S%C3%A3o%20Paulo!5e0!3m2!1spt-BR!2sbr!4v1588191169430!5m2!1spt-BR!2sbr" width="400" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                
+            </div>
+            <hr/>
+
+            <div>
+                <h2>MANAGEMENT | Karen Blunch</h2>
+                <p>e-mail: <a href="mailto:info@mysite.com"> info@mysite.com </a></p>
+                <p>phone: <a href="tel:1234567890"> 123-456-7890 </a></p>
+                <hr/>
+
+                <h2>BOOKING | Daniel Ku</h2>
+                <p>e-mail: <a href="mailto:info@mysite.com"> info@mysite.com </a></p>
+                <p>phone: <a href="tel:1234567890"> 123-456-7890 </a></p>
+                <hr/>
+
+                <h2>BOOKING | Daniel Ku</h2>
+                <p>e-mail: <a href="mailto:info@mysite.com"> info@mysite.com </a></p>
+                <p>phone: <a href="tel:1234567890"> 123-456-7890 </a></p>
+                <hr/>
+
+                <h2>BOOKING | Daniel Ku</h2>
+                <p>e-mail: <a href="mailto:info@mysite.com"> info@mysite.com </a></p>
+                <p>phone: <a href="tel:1234567890"> 123-456-7890 </a></p>
+
+            </div>
+        </div>    
+
+        <footer>
+            <p>Copyright - Jane Doe</p>
+        </footer>
+    </body>
+</html>

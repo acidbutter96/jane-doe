@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #FFF;
+    box-shadow: gray;
+    border: 1px solid #ccc;
+}
+
+nav ul {
+    list-style: none;
+    padding-left: 0px;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #555;
+    font-weight: 700;
+}
+
+/* Estilo de menu vermelho na aba atual */
+.active {
+    color: #E90B0B;
+    opacity: 0.8;
+}
+/* Estilo da playlist na home */
+.musicColor {
+    color: rgb(249, 168, 38);
+    font-weight: 700;
+}
+
+/* Estilo da Página HOME */
+.Image {
+    width: 100%;
+    margin: auto;  
+    text-align: center;
+}
+
+#Texto {
+    padding-top: 50px;
+    height: 200px;
+    width: 900px;
+    text-align: left;
+    margin: auto;
+}
+
+/* Conteúdo da imagem e lista */
+.content {
+    padding-left: 180px;
+    padding-top: 150px;
+    margin: auto;
+    align-items: center;
+    display: flex;
+}
+
+.content img {
+    width: 500px;
+    height: 250px;
+    padding-right: 50px;
+}
+
+.content #lista li {
+    padding-top: 10px;
+    /*color: #FE9A2E;*/
+}
+
+
+/* Conteúdo da página ABOUT */
+.About {
+    display: block;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+}
+
+.About #Texto {
+    width: auto;
+    padding-top: 150px;
+    text-align: center;
+    line-height: 25px;
+}
+
+.About img {
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    padding-top: 220px;
+    justify-content: center;
+    display: flex;
+}
+
+/* Conteúdo da página MUSIC */
+
+.music {
+    display: block;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+    padding-left: 200px;
+    padding-top: 180px;
+    padding-bottom: 50px;
+}
+
+.videos {
+    padding-top: 20px;
+    margin: auto;
+}
+
+.videos ul {
+    margin: 0;
+    padding-top: 15px;
+}
+
+.videos ol {
+    list-style: none;
+    margin: 0;
+    padding-left: 0px;
+    padding-top: 15px;
+    line-height: 40px;
+}
+
+/* Conteúdo da página CONTACT */
+.contact {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    /* background-color: aqua; */
+    margin: 0 200px;
+    padding-top: 150px;
+}
+
+.contact #Form {
+    display: inline-block;
+    justify-content: center;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+
+form {
+    display: block;
+    align-items: center;
+    margin: 0 auto;
+    float: left;
+    padding-right: 145px;
+}
+textarea {
+    resize: vertical;
+    width: 400px;
+    padding: 6px 10px;
+}
+
+input[type=text] {
+    width: 400px;
+    padding: 6px 10px; 
+} 
+
+input[type=email] {
+    width: 400px;
+    padding: 6px 10px;
+}
+
+button {
+    color: #fff;
+    background-color: #E90B0B;
+    border: 1px solid #E90B0B;
+    border-radius: 2px;
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+
+/* Rodapé */
+footer {
+    display: block;
+    background-color: #ccc;
+    text-align: center;
+    font-size: 12px;
+    opacity: 0.8;
+}
